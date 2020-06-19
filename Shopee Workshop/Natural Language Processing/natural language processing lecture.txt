@@ -1,0 +1,98 @@
+Natural Language Processing
+It is important to know the:
+1.) Context
+2.) Tone
+of the Sentence
+
+Applications of NLP:
+	1.) Sentiment Analysis
+		- Ratings of a certain product or service
+		
+	2.) Chatbot
+		- Lighten the workload in accomodating customers
+
+	3.) Speech recognition
+		- Voice assistance
+
+	4.) Language Translation
+
+	5.) Information retrieval / extraction
+		- Semantic search engine
+			- Suggestions in search boxes
+	
+	7.) Advertisement matching
+
+
+NATURAL LANGUAGE Processing
+
+1.) Natural Language UNDERSTANDING
+	- You want the computer to understand the input data
+	- You break down the words, removing the duplicates and noise
+	
+2.) Natural Langauge GENERATION
+	- You want the computer to generate a reasonable response to the user
+	
+>>> NATURAL LANGUAGE UNDERSTANDING <<<
+- More on preprocessing kind of stuff
+	- Ex: Cleaning up noise
+	
+1.) Text Normalisation
+	- Theres a python toolkit Natural-language-toolkit to remove stop words
+	- If you install Anaconda , still need to install nltk (Natural Language Tool Kit)
+	
+PRE PROCESSING
+a.) Tokenisation
+	- 
+
+b.) N-Grams
+	- Sequence of N-words, good for putting keywords into local context
+	- Its a try and error process in which n-grams type you want to use
+	
+c.) Stemming and Lemmatisation
+	Stemming - algorithm approach where it reduces the word over time
+			- choose this if you dont have enough time and resource
+			- resulting word might erase the sentence's meaning
+	Lemmatisation - lookup approach where it looks for the root word
+			- the root word output is usually meaningful
+
+d.) Part of Speech Tagging
+
+Document Term Matrix
+	- Every row corresponds to a document
+	- Each column corresponds to a word
+	- The number corresponds to how many times that word appeared in the document
+	
+NATURAL LANGUAGE GENERATION
+
+Evolution of NLP Algorithms
+1.) Markov Chains
+	- Predicts the next word in the sentence
+	- Based on the previous words, it predicts the next word
+	- Drawback is: You do not have the context for the next upcoming words, especially if you want to start a new topic
+
+2.) Recurrent Neural Networks
+	- It takes the order into consideration before generating a response
+	- The next upcoming words loses context since its always based on the previous text
+	
+3.) Long short term memory models
+	- Look at the different word input and checks if a word input is important and if not it should forget it
+	- Training time is low
+	
+4.) Transformers
+	- Attention based encoder decoder type architecture
+	- Input is a sequence of words
+	- Made up of encoders and decoders
+	- Made up of A STACK of encoders and A STACK of decoders
+	- Encoder component has 2 components
+	 - Feed forward
+	 - Self-attention
+	 - Attention is basically finding the position of the word to find who, what, when, etc. is it referring to
+	- Decoder component has 3 components
+
+	BERT (Transformers)
+	- Bidirectional Encoder Representation Transformer
+	- It looks at the front and back of the word to identify the context.
+	- Improved search results in Google
+
+Why Fine Tuning?
+	- We can put an additional improvement layer on top of the transformer to fine tune it.
