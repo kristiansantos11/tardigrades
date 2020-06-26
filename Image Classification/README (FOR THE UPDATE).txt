@@ -13,7 +13,7 @@
 - Pwede babaan yung batch_size para mas magoperate ng maayos yung program.
 
 
-3) ADDED: Test Folder
+3) IMPORTANT!!! : Create an empty 'test' Folder
 
 - Ilagay mo dito lahat nung images galing sa shopee. Di ko na inupload sa github dahil sobrang laki
 
