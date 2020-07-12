@@ -1,0 +1,205 @@
+Timestamp,Title,Age,Citizenship,Rate your skills [Python],Rate your skills [Machine learning], What is your expectation from attending this class?,What is your best favorite category to purchase online?, What is your second favorite category to purchase online?, What is you third favorite category to purchase online?
+7/1/2020 15:24:14,Mr.,23,Singapore,Have used in a project,No Background,to gain skills,Men's Wear,Food & Beverages,Computers & Peripherals
+7/1/2020 15:49:02,Mr.,23,Singapore,Have studied,Have studied,Learn more about pandas and numpy,Food & Beverages,Video Games,Men's Wear
+7/1/2020 16:11:48,Mr.,22,Indonesia,Have studied,Have studied,Skillup in pandas,Hobbies & Books,Computers & Peripherals,Mobile & Gadgets
+7/1/2020 16:59:20,Mr.,29,Thailand,Have studied,No Background,Some knowledge,Video Games,Hobbies & Books,Computers & Peripherals
+7/1/2020 17:13:08,Mr.,22,Singapore,"Have studied, Have used in a project","Have studied, Have used in a project",Understand more about Numpy and Pandas,Mobile & Gadgets,Hobbies & Books,Computers & Peripherals
+7/1/2020 17:07:15,Mr.,19,Philippines,No Background,No Background,More lessons about python,Computers & Peripherals,Mobile & Gadgets,Video Games
+7/1/2020 17:17:25,Ms.,23,Singapore,No Background,No Background,To learn more about python after attending the first python class.,Mobile & Gadgets,Beauty & Personal Care,Food & Beverages
+7/1/2020 17:18:04,Mr.,19,Indonesia,Have used in a project,Have studied,Know more with Machine Learning,Computers & Peripherals,Mobile & Gadgets,Hobbies & Books
+7/1/2020 17:23:08,Mr.,19,Indonesia,Have studied,Have studied,I want to improve my self and develop my programming skill especially Python further,Mobile & Gadgets,Men's Wear,Computers & Peripherals
+7/1/2020 17:26:44,Mr.,25,Singapore,Have studied,Have studied,To learn and reinforce fundamentals ,Computers & Peripherals,Mobile & Gadgets,Food & Beverages
+7/1/2020 17:28:48,Mr.,23,Singapore,Have used in a project,Have studied,Would like to understand more about machine learning ,Mobile & Gadgets,Computers & Peripherals,Food & Beverages
+7/1/2020 17:31:42,Ms.,19,Indonesia,"Have studied, Have used in a project","Have studied, Have used in a project",I could Upgrade my skill in Data science with Python since I am a totally beginner in it so that I can strengthen my basic in it. ,Computers & Peripherals,Jewellery & Accessories,Mobile & Gadgets
+7/1/2020 17:40:57,Ms.,20,Singapore,Have studied,No Background,-,Food & Beverages,Beauty & Personal Care,Mobile & Gadgets
+7/1/2020 17:43:29,Mr.,45,Singapore,No Background,No Background,More in-depth of python after part 1,Food & Beverages,Mobile & Gadgets,Hobbies & Books
+7/1/2020 17:47:41,Ms.,22,Singapore,"No Background, Have studied",No Background,Learn,Jewellery & Accessories,Hobbies & Books,Women's Apparel
+7/1/2020 17:48:24,Ms.,21,Singapore,No Background,No Background,Learn and apply,Jewellery & Accessories,Hobbies & Books,Food & Beverages
+7/1/2020 18:00:30,Mr.,18,Philippines,Have studied,Have studied,Tips and tricks,Food & Beverages,Men's Wear,Mobile & Gadgets
+7/1/2020 18:01:21,Ms.,19,Philippines,No Background,No Background,I will learn about Python.,Beauty & Personal Care,Food & Beverages,Computers & Peripherals
+7/1/2020 18:05:56,Ms.,20,Malaysia,No Background,No Background,gain more information on python,Food & Beverages,Women's Apparel,Mobile & Gadgets
+7/1/2020 18:06:03,Mr.,20,Philippines,No Background,No Background,I will learn,Mobile & Gadgets,Video Games,Men's Wear
+7/1/2020 18:23:12,Ms.,23,Malaysia,No Background,No Background,I can familiar with Python,Hobbies & Books,Mobile & Gadgets,Beauty & Personal Care
+7/1/2020 18:38:52,Ms.,26,Singapore,Have studied,No Background,To improve my Python knowledge. ,Hobbies & Books,Beauty & Personal Care,Women's Apparel
+7/1/2020 18:44:17,Ms.,24,Singapore,Have studied,No Background,Learning more about Numpy,Beauty & Personal Care,Jewellery & Accessories,Food & Beverages
+7/1/2020 18:44:32,Mr.,37,Malaysia,Have studied,Have studied,data science advance like how different layer of neural network works,Computers & Peripherals,Hobbies & Books,Men's Wear
+7/1/2020 18:45:14,Mr.,38,Malaysia,Have used in a project,Have used in a project,.,Computers & Peripherals,Video Games,Food & Beverages
+7/1/2020 19:04:42,Mr.,21,Singapore,Have used in a project,No Background,Learning something that can get me started on NLP,Video Games,Hobbies & Books,Computers & Peripherals
+7/1/2020 19:23:34,Ms.,19,Malaysia,Have studied,No Background,Understand Data Science,Women's Apparel,Beauty & Personal Care,Mobile & Gadgets
+7/1/2020 19:25:23,Ms.,22,Indonesia,Have studied,Have studied,Practice using function in pandas and numpy,Beauty & Personal Care,Women's Apparel,Hobbies & Books
+7/1/2020 20:26:05,Mr.,22,Singapore,Have used in a project,Have used in a project,Learn about DS,Men's Wear,Hobbies & Books,Mobile & Gadgets
+7/1/2020 20:33:34,Mr.,19,Indonesia,Have studied,No Background,Being able to implement what I've learned in the class to small projects or as a foundation for future learning,Video Games,Computers & Peripherals,Hobbies & Books
+7/1/2020 20:39:19,Mr.,29,Singapore,Have studied,No Background,Learn more about numpy,Computers & Peripherals,Mobile & Gadgets,Food & Beverages
+7/1/2020 20:51:30,Ms.,21,Singapore,No Background,No Background,NIL,Hobbies & Books,Beauty & Personal Care,Women's Apparel
+7/1/2020 20:58:15,Mr.,44,Singapore,Regularly use at work,Regularly use at work,Learn more data science use cases,Mobile & Gadgets,Hobbies & Books,Computers & Peripherals
+7/1/2020 21:06:57,Mr.,21,Singapore,Have used in a project,No Background,Python Refresher,Mobile & Gadgets,Video Games,Computers & Peripherals
+7/1/2020 21:39:25,Ms.,22,Taiwan,Have studied,Have studied,can use python in a project,Video Games,Beauty & Personal Care,Computers & Peripherals
+7/1/2020 21:48:38,Mr.,24,Singapore,Have studied,No Background,Understand the basic of using Pandas and Numpy,Mobile & Gadgets,Men's Wear,Watches
+7/1/2020 21:50:47,Ms.,20,Malaysia,"No Background, Have used in a project",No Background,Learning numpy! ,Hobbies & Books,Jewellery & Accessories,Women's Apparel
+7/1/2020 22:23:14,Mr.,20,Singapore,Have studied,Have studied,Improve my knowledge on data science,Computers & Peripherals,Mobile & Gadgets,Hobbies & Books
+7/1/2020 22:28:08,Ms.,20,Malaysia,Have studied,Have studied,Understand data science better ,Mobile & Gadgets,Beauty & Personal Care,Computers & Peripherals
+7/1/2020 22:38:53,Ms.,24,Malaysia,No Background,No Background,have a concept on python language and machine learning,Food & Beverages,Women's Apparel,Beauty & Personal Care
+7/1/2020 22:40:56,Mr.,19,Indonesia,Have used in a project,Have studied,I can improve my skill,Computers & Peripherals,Food & Beverages,Mobile & Gadgets
+7/1/2020 23:05:43,Mr.,28,Singapore,Have studied,No Background,Upskill python,Food & Beverages,Men's Wear,Mobile & Gadgets
+7/1/2020 23:33:53,Mr.,17,Indonesia,Have used in a project,Have studied,Mastering Python even more,Food & Beverages,Mobile & Gadgets,Computers & Peripherals
+7/2/2020 1:47:46,Mr.,22,Thailand,Have used in a project,Have used in a project,Knowledge,Computers & Peripherals,Beauty & Personal Care,Food & Beverages
+7/2/2020 7:16:55,Mr.,28,Indonesia,Have used in a project,Have used in a project,knowing the material,Computers & Peripherals,Video Games,Mobile & Gadgets
+7/2/2020 7:42:46,Mr.,30,Malaysia,Have used in a project,Have used in a project,solving real world problems,Computers & Peripherals,Beauty & Personal Care,Men's Wear
+7/2/2020 9:17:23,Ms.,21,China,Have studied,No Background,learning python,Women's Apparel,Hobbies & Books,Food & Beverages
+7/2/2020 9:44:10,Mr.,19,Singapore,No Background,No Background,To learn more about python and machine learning,Food & Beverages,Hobbies & Books,Mobile & Gadgets
+7/2/2020 9:45:19,Ms.,19,Malaysia,Have studied,No Background,Become more familiar with Python ,Women's Apparel,Hobbies & Books,Jewellery & Accessories
+7/2/2020 10:43:45,Mr.,22,Malaysia,Have studied,No Background,Learning ,Beauty & Personal Care,Computers & Peripherals,Food & Beverages
+7/2/2020 11:01:18,Mr.,23,Indonesia,Have studied,No Background,I will increase my data science skill after attending module 1 and this course,Food & Beverages,Mobile & Gadgets,Video Games
+7/2/2020 11:06:52,Ms.,20,Malaysia,Have studied,No Background,Learn more about bot,Food & Beverages,Women's Apparel,Hobbies & Books
+7/2/2020 11:09:36,Ms.,16,Singapore,Have used in a project,No Background,to learn about python use in data science,Beauty & Personal Care,Women's Apparel,Hobbies & Books
+7/2/2020 11:12:46,Mr.,20,Taiwan,Have studied,No Background,Learn more about data science knowledge,Food & Beverages,Computers & Peripherals,Video Games
+7/2/2020 12:02:52,Mr.,17,Malaysia,Regularly use at work,Have used in a project,To learn the practical use of data science and machine learning,Food & Beverages,Video Games,Mobile & Gadgets
+7/2/2020 12:37:23,Mr.,18,Vietnam,Have studied,Have studied,I expect to fully understand the materials related.,Video Games,Computers & Peripherals,Food & Beverages
+7/2/2020 12:38:36,Mr.,18,Vietnam,Have studied,Have studied,I expect to fully understand the materials related.,Video Games,Computers & Peripherals,Food & Beverages
+7/2/2020 12:46:11,Ms.,20,Singapore,Have studied,No Background,Gain better understanding in the use of pandas and numpy in python for data sci,Women's Apparel,Food & Beverages,Jewellery & Accessories
+7/2/2020 13:04:24,Ms.,27,Indonesia,No Background,No Background,To learn data science.,Beauty & Personal Care,Computers & Peripherals,Mobile & Gadgets
+7/2/2020 13:31:20,Mr.,19,Indonesia,Have studied,Have studied,"learn and gain experience
+about python and machine learning",Computers & Peripherals,Mobile & Gadgets,Food & Beverages
+7/2/2020 13:38:22,Mr.,20,Thailand,Have studied,No Background,I want to be able to use python more efficiently.,Video Games,Hobbies & Books,Food & Beverages
+7/2/2020 14:07:32,Mr.,19,Indonesia,Have studied,No Background,Learning more about python for data science purposes,Video Games,Men's Wear,Food & Beverages
+7/2/2020 14:40:25,Ms.,25,Taiwai,Have used in a project,No Background,How to use Numpy and Pandas,Jewellery & Accessories,Beauty & Personal Care,Food & Beverages
+7/2/2020 15:08:30,Ms.,19,Singapore,No Background,No Background,learning new things about python,Women's Apparel,Hobbies & Books,Beauty & Personal Care
+7/2/2020 15:55:23,Mr.,22,Singapore,Have studied,No Background,Learn about real world applications of python,Men's Wear,Mobile & Gadgets,Video Games
+7/2/2020 16:34:15,Ms.,22,Malaysia,No Background,No Background,Learn something new,Mobile & Gadgets,Hobbies & Books,Women's Apparel
+7/2/2020 16:37:15,Mr.,24,Singapore,"Have studied, Have used in a project",No Background,nil,Hobbies & Books,Mobile & Gadgets,Computers & Peripherals
+7/2/2020 16:55:13,Ms.,20,Singapore,Have studied,No Background,Learn more about python!,Women's Apparel,Jewellery & Accessories,Hobbies & Books
+7/2/2020 17:03:33,Mr.,21,Singapore,Have studied,No Background,To be able to apply on a basic foundation,Video Games,Food & Beverages,Mobile & Gadgets
+7/2/2020 18:19:23,Mr.,22,Indonesia,"Have studied, Have used in a project","Have studied, Have used in a project",Getting to know better how to use pandas and numpy as efficient as possible,Beauty & Personal Care,Men's Wear,Video Games
+7/2/2020 18:35:02,Mr.,18,Indonesia,Have studied,No Background,know more about python,Computers & Peripherals,Men's Wear,Video Games
+7/2/2020 18:38:40,Mr.,16,Indonesia,Have studied,No Background,-,Hobbies & Books,Computers & Peripherals,Men's Wear
+7/2/2020 18:38:40,Ms.,20,Singapore,Have studied,No Background,Understand numpy and pandas,Women's Apparel,Jewellery & Accessories,Beauty & Personal Care
+7/2/2020 18:44:45,Mr.,25,Philippines,Have studied,No Background,How to use pandas and numpy for analyzing data,Food & Beverages,Computers & Peripherals,Video Games
+7/2/2020 19:12:33,Ms.,20,Malaysia,No Background,No Background,learn more computer language,Women's Apparel,Beauty & Personal Care,Hobbies & Books
+7/2/2020 19:23:51,Ms.,20,Malaysia,Have studied,Have studied,learning data science,Mobile & Gadgets,Hobbies & Books,Computers & Peripherals
+7/2/2020 20:30:10,Mr.,20,Malaysia,No Background,No Background,to learn more about ML with python,Mobile & Gadgets,Computers & Peripherals,Video Games
+7/2/2020 20:31:56,Ms.,20,Singapore,Have studied,No Background,learn more about numpy and pandas,Women's Apparel,Food & Beverages,Hobbies & Books
+7/2/2020 20:39:39,Ms.,42,Singapore,No Background,No Background,Able to pick up python fast,Beauty & Personal Care,Computers & Peripherals,Food & Beverages
+7/2/2020 20:46:23,Ms.,19,Thailand,Have studied,No Background,to continue studying from botnoi 1,Beauty & Personal Care,Hobbies & Books,Jewellery & Accessories
+7/2/2020 21:56:18,Ms.,20,Taiwai,Have studied,No Background,"Learn packages to help solve problems more efficiently, and know how to think in different ways ",Hobbies & Books,Women's Apparel,Beauty & Personal Care
+7/2/2020 22:11:25,Ms.,23,China,No Background,No Background,To understand more about Python,Beauty & Personal Care,Women's Apparel,Food & Beverages
+7/2/2020 22:31:17,Mr.,22,Philippines,Have used in a project,Have studied,more knowledge to be gajned,Mobile & Gadgets,Computers & Peripherals,Men's Wear
+7/2/2020 22:43:45,Ms.,23,Singapore,Have studied,No Background,Learn python,Beauty & Personal Care,Jewellery & Accessories,Video Games
+7/2/2020 22:44:01,Mr.,25,Singapore,Have studied,Have studied,Learning to optimise my pandas skills,Watches,Video Games,Men's Wear
+7/2/2020 22:44:49,Mr.,23,Singapore,Have studied,No Background,gain as much knowledge as I can,Men's Wear,Food & Beverages,Beauty & Personal Care
+7/2/2020 22:45:32,Mr.,46,Thailand,Have used in a project,Have studied,Learn more about Data Science ,Computers & Peripherals,Hobbies & Books,Mobile & Gadgets
+7/2/2020 22:45:44,Mr.,20,Indonesia,Have studied,No Background,get to know python data science better,Computers & Peripherals,Mobile & Gadgets,Beauty & Personal Care
+7/2/2020 22:46:31,Mr.,32,Taiwai,Have used in a project,Have used in a project,Something interesting,Computers & Peripherals,Hobbies & Books,Mobile & Gadgets
+7/2/2020 22:47:09,Mr.,20,Malaysia,Have studied,No Background,I can apply this with my studies,Video Games,Hobbies & Books,Men's Wear
+7/2/2020 22:47:38,Mr.,24,Singapore,Have used in a project,Have used in a project,To improve my data manipulation skills in numpy and pandas,Computers & Peripherals,Mobile & Gadgets,Video Games
+7/2/2020 22:49:23,Ms.,20,Singapore,Have studied,No Background,"Easy to follow and learn, notes provided ",Women's Apparel,Jewellery & Accessories,Hobbies & Books
+7/2/2020 22:49:59,Mr.,22,Singapore,Have studied,No Background,Get some exposure,Computers & Peripherals,Hobbies & Books,Men's Wear
+7/2/2020 22:51:54,Ms.,21,Malaysia,No Background,No Background,Learn and develop something new,Mobile & Gadgets,Beauty & Personal Care,Hobbies & Books
+7/2/2020 22:53:02,Ms.,21,Singapore,No Background,No Background,To learn more about how coding logic can be applied to data science ,Women's Apparel,Food & Beverages,Hobbies & Books
+7/2/2020 22:54:11,Mr.,21,Malaysia,No Background,Have studied,Able to learn something new. ,Mobile & Gadgets,Food & Beverages,Computers & Peripherals
+7/2/2020 22:57:24,Ms.,20,Malaysia,Have studied,Have studied,/,Hobbies & Books,Mobile & Gadgets,Jewellery & Accessories
+7/2/2020 22:58:45,Ms.,21,Malaysia,Have studied,Have used in a project,Know more about packages in Python and able to utilise it efficiently ,Beauty & Personal Care,Hobbies & Books,Women's Apparel
+7/2/2020 22:58:50,Ms.,20,Singapore,Have studied,No Background,To gain more understanding about how numpys and pandas are used and applications of it in data science,Beauty & Personal Care,Hobbies & Books,Women's Apparel
+7/2/2020 23:00:13,Ms.,21,Thailand,Have studied,Have studied,More familiar with python and machine learning,Beauty & Personal Care,Food & Beverages,Mobile & Gadgets
+7/2/2020 23:05:33,Ms.,21,Singapore,Have studied,No Background,Better understanding ,Beauty & Personal Care,Women's Apparel,Jewellery & Accessories
+7/2/2020 23:06:33,Ms.,23,Indonesia,Have studied,Have studied,Understand the pandas and numpy library,Hobbies & Books,Beauty & Personal Care,Women's Apparel
+7/2/2020 23:07:39,Mr.,23,Philippines,Have used in a project,Have studied,Learn more about Python,Computers & Peripherals,Mobile & Gadgets,Jewellery & Accessories
+7/2/2020 23:10:46,Ms.,22,Malaysia,Have studied,No Background,More python skills,Hobbies & Books,Beauty & Personal Care,Computers & Peripherals
+7/2/2020 23:14:19,Ms.,22,Philippines,Regularly use at work,Have studied,Learn more on how to use machine learning in solving everday problems.,Beauty & Personal Care,Hobbies & Books,Food & Beverages
+7/2/2020 23:16:01,Ms.,0,Malaysia,No Background,Have studied,To learn,Hobbies & Books,Mobile & Gadgets,Beauty & Personal Care
+7/2/2020 23:19:16,Mr.,22,Singapore,Have studied,No Background,Learning numpy and python,Video Games,Watches,Men's Wear
+7/2/2020 23:32:55,Ms.,19,Singapore,Have studied,No Background,Learn more about data science,Women's Apparel,Food & Beverages,Hobbies & Books
+7/2/2020 23:33:40,Mr.,25,Singapore,Have studied,No Background,Solidify my fundamentals in python and machine learning and work on projects,Computers & Peripherals,Mobile & Gadgets,Video Games
+7/2/2020 23:37:00,Ms.,22,Malaysia,Have studied,Have studied,Learn to code,Food & Beverages,Beauty & Personal Care,Women's Apparel
+7/2/2020 23:37:07,Ms.,20,Singapore,Have studied,Have studied,Gain greater depth of knowledge ,Jewellery & Accessories,Mobile & Gadgets,Beauty & Personal Care
+7/2/2020 23:38:24,Ms.,23,Taiwan,Have studied,No Background,learn anything,Beauty & Personal Care,Hobbies & Books,Women's Apparel
+7/2/2020 23:50:08,Ms.,24,Singapore,Have studied,No Background,Build up python skills for data science ,Food & Beverages,Beauty & Personal Care,Women's Apparel
+7/3/2020 0:03:41,Mr.,25,Singapore,Have studied,No Background,To learn more about Numpy and Pandas library,Food & Beverages,Mobile & Gadgets,Hobbies & Books
+7/3/2020 0:18:52,Ms.,26,Taiwai,Have studied,Have studied,learn how to use python in practical cases,Hobbies & Books,Beauty & Personal Care,Computers & Peripherals
+7/3/2020 0:53:38,Mr.,23,Malaysia,Have studied,Have studied,Data analysis skills ,Hobbies & Books,Computers & Peripherals,Men's Wear
+7/3/2020 1:11:40,Mr.,22,Indonesia,Have studied,Have studied,get to know better understanding to machine learning,Video Games,Computers & Peripherals,Men's Wear
+7/3/2020 1:52:33,Mr.,40,Singapore,Have studied,No Background,to build upon my knowledge using Python for data science - i've signed up for part 1 conducted by BotNoi as well,Hobbies & Books,Video Games,Watches
+7/3/2020 2:14:40,Mr.,25,Singapore,Have used in a project,Have used in a project,Learn,Computers & Peripherals,Hobbies & Books,Jewellery & Accessories
+7/3/2020 2:42:57,Ms.,27,Malaysia,No Background,No Background,Learn from basic,Hobbies & Books,Women's Apparel,Food & Beverages
+7/3/2020 4:17:38,Mr.,36,Philippines,Have studied,Have studied,Practical examples,Hobbies & Books,Computers & Peripherals,Mobile & Gadgets
+7/3/2020 4:39:43,Mr.,20,Indonesia,Have used in a project,Have studied,Learning some new things about Numpy and Pandas,Computers & Peripherals,Mobile & Gadgets,Video Games
+7/3/2020 6:14:30,Ms.,24,Indonesia,Have used in a project,Have used in a project,improve my knowledge on python and ml,Women's Apparel,Food & Beverages,Hobbies & Books
+7/3/2020 7:03:31,Ms.,38,Malaysia,No Background,No Background,To understand the fundamental of python ,Mobile & Gadgets,Computers & Peripherals,Hobbies & Books
+7/3/2020 7:56:59,Mr.,47,Malaysia,Have studied,No Background,learn more understanding about the topic,Computers & Peripherals,Food & Beverages,Mobile & Gadgets
+7/3/2020 8:05:10,Mr.,20,Singapore,No Background,No Background,Learn python and data science,Mobile & Gadgets,Computers & Peripherals,Jewellery & Accessories
+7/3/2020 8:08:45,Mr.,30,Indonesia,Have studied,Have studied,I want to understand python using numpy and pandas for data science,Computers & Peripherals,Mobile & Gadgets,Men's Wear
+7/3/2020 8:20:30,Mr.,23,Singapore,Have studied,"No Background, Have studied","To learn more about machine learning
+",Men's Wear,Watches,Hobbies & Books
+7/3/2020 8:23:15,Ms.,20,Singapore,Have studied,No Background,Can understand the basics,Food & Beverages,Hobbies & Books,Women's Apparel
+7/3/2020 8:34:04,Ms.,23,Singapore,Have used in a project,No Background,know how to use pandas ,Jewellery & Accessories,Women's Apparel,Beauty & Personal Care
+7/3/2020 8:38:51,Mr.,23,Indonesia,Have used in a project,Have used in a project,better understanding in python usage,Video Games,Food & Beverages,Mobile & Gadgets
+7/3/2020 9:02:01,Ms.,23,Taiwan,Have studied,Have studied,I wish I can be an advanced python programmer.,Video Games,Computers & Peripherals,Food & Beverages
+7/3/2020 9:06:31,Ms.,20,Singapore,No Background,No Background,learn as much as i can,Hobbies & Books,Mobile & Gadgets,Food & Beverages
+7/3/2020 9:07:46,Mr.,24,Singapore,Have used in a project,Have used in a project,To be able to improve  on my current project,Mobile & Gadgets,Food & Beverages,Video Games
+7/3/2020 9:12:02,Ms.,41,Malaysia,No Background,No Background,Learning python,Beauty & Personal Care,Hobbies & Books,Women's Apparel
+7/3/2020 9:19:04,Mr.,22,Singapore,Have studied,Have studied,Learning abt numpy,Mobile & Gadgets,Computers & Peripherals,Watches
+7/3/2020 9:29:29,Ms.,19,Singapore,Have studied,No Background,get to understand more about data science,Food & Beverages,Mobile & Gadgets,Jewellery & Accessories
+7/3/2020 9:34:56,Mr.,40,Indonesia,Have used in a project,Have used in a project,Be Smart,Food & Beverages,Hobbies & Books,Computers & Peripherals
+7/3/2020 9:53:41,Ms.,20,Indonesia,Have studied,Have studied,I get new knowledge about data scientist,Hobbies & Books,Computers & Peripherals,Food & Beverages
+7/3/2020 9:56:34,Mr.,20,Indonesia,No Background,No Background,I'm hoping that I can understand the basic fundamentals library in python like pandas and numpy.,Video Games,Hobbies & Books,Watches
+7/3/2020 9:58:33,Ms.,20,Indonesia,Have used in a project,Have studied,get more knowledge about data science,Beauty & Personal Care,Women's Apparel,Computers & Peripherals
+7/3/2020 10:30:28,Mr.,20,Singapore,Have studied,No Background,Learn something new,Hobbies & Books,Video Games,Food & Beverages
+7/3/2020 10:38:07,Mr.,26,India,Have used in a project,Have used in a project,To better understand ML using Python,Mobile & Gadgets,Men's Wear,Computers & Peripherals
+7/3/2020 10:54:24,Mr.,32,Singapore,No Background,Have studied,refresh basic python skills,Food & Beverages,Computers & Peripherals,Mobile & Gadgets
+7/3/2020 11:07:19,Ms.,20,Singapore,Have studied,No Background,To have more insights,Women's Apparel,Food & Beverages,Jewellery & Accessories
+7/3/2020 11:14:02,Ms.,23,Taiwai,No Background,No Background,Shopee Code League ,Women's Apparel,Jewellery & Accessories,Hobbies & Books
+7/3/2020 11:16:23,Ms.,20,Singapore,Have studied,No Background,Learn something new ,Computers & Peripherals,Hobbies & Books,Beauty & Personal Care
+7/3/2020 11:23:45,Ms.,20,Malaysia,No Background,Have studied,Numpy and Pandas in Python,Hobbies & Books,Food & Beverages,Mobile & Gadgets
+7/3/2020 11:34:53,Ms.,22,Singapore,Have used in a project,No Background,gain skills and knowledge with regards to data science,Women's Apparel,Jewellery & Accessories,Food & Beverages
+7/3/2020 12:20:41,Mr.,26,Thailand,Have used in a project,Have studied,to review my python programming skill,Computers & Peripherals,Mobile & Gadgets,Hobbies & Books
+7/3/2020 12:30:25,Ms.,19,China,Have studied,No Background,Reinforce what I've already known about Numpy and Pandas.,Food & Beverages,Video Games,Beauty & Personal Care
+7/3/2020 12:55:32,Ms.,20,Malaysia,Have studied,No Background,learning how to deal with the data using python ,Food & Beverages,Jewellery & Accessories,Hobbies & Books
+7/3/2020 12:58:31,Mr.,20,Singapore,Have studied,No Background,Gaining Practical Skills,Mobile & Gadgets,Computers & Peripherals,Hobbies & Books
+7/3/2020 13:21:18,Mr.,23,Taiwai,No Background,No Background,基礎運用,Mobile & Gadgets,Hobbies & Books,Computers & Peripherals
+7/3/2020 14:12:53,Ms.,21,Malaysia,Have studied,No Background,Familiar with common use pandas and numpy libraries,Hobbies & Books,Food & Beverages,Computers & Peripherals
+7/3/2020 14:22:55,Ms.,20,Malaysia,Have studied,No Background,learning python to do research and analytics,Women's Apparel,Food & Beverages,Jewellery & Accessories
+7/3/2020 14:38:55,Mr.,23,Malaysia,Have studied,Have studied,To use python with machine learning.,Mobile & Gadgets,Computers & Peripherals,Food & Beverages
+7/3/2020 14:43:12,Ms.,26,Malaysia,Have studied,No Background,Part 2 of the first course so would like to continue learning ,Hobbies & Books,Mobile & Gadgets,Women's Apparel
+7/3/2020 14:49:12,Ms.,20,Singapore,No Background,No Background,learn as much as i can,Hobbies & Books,Mobile & Gadgets,Food & Beverages
+7/3/2020 14:52:32,Ms.,23,Malaysia,Have studied,No Background,to learn about functions of numpy and pandas and the syntax,Women's Apparel,Beauty & Personal Care,Mobile & Gadgets
+7/3/2020 15:13:52,Ms.,20,Malaysia,No Background,No Background,Learning,Hobbies & Books,Mobile & Gadgets,Women's Apparel
+7/3/2020 15:15:35,Mr.,29,Indonesia,Have used in a project,Have used in a project,Get used to ut,Hobbies & Books,Computers & Peripherals,Video Games
+7/3/2020 15:16:24,Ms.,30,Singapore,Have studied,No Background,To learn about python.,Beauty & Personal Care,Jewellery & Accessories,Food & Beverages
+7/3/2020 16:05:26,Mr.,32,Taiwai,Have used in a project,Have used in a project,Learn some analysis skills ,Food & Beverages,Men's Wear,Video Games
+7/3/2020 16:35:52,Ms.,20,Malaysia,Have studied,No Background,Gain further understanding in how to use python and how to apply it to data science,Food & Beverages,Jewellery & Accessories,Hobbies & Books
+7/3/2020 16:36:41,Mr.,21,Singapore,Have studied,No Background,Hope to pick up new skills,Computers & Peripherals,Mobile & Gadgets,Food & Beverages
+7/3/2020 16:55:28,Ms.,20,Singapore,"Have studied, Have used in a project",Have studied,Gain knowledge,Mobile & Gadgets,Women's Apparel,Beauty & Personal Care
+7/3/2020 17:02:04,Mr.,31,Taiwai,Have studied,No Background,Know more about  Data Science ,Computers & Peripherals,Food & Beverages,Video Games
+7/3/2020 17:50:03,Mr.,24,Thailand,No Background,No Background,More understanding about principle and structure of the language. Then apply to the projects,Hobbies & Books,Mobile & Gadgets,Video Games
+7/3/2020 17:54:30,Ms.,23,Taiwai,No Background,Have studied,Analyze data with python ,Women's Apparel,Beauty & Personal Care,Computers & Peripherals
+7/3/2020 18:05:30,Mr.,29,Singapore,Have studied,Have studied,Deepen knowledge,Computers & Peripherals,Hobbies & Books,Mobile & Gadgets
+7/3/2020 19:01:22,Mr.,23,Singapore,No Background,No Background,learn as much as i can,Hobbies & Books,Mobile & Gadgets,Computers & Peripherals
+7/3/2020 19:27:36,Ms.,37,Malaysia,Have studied,Have used in a project,Learning,Beauty & Personal Care,Computers & Peripherals,Hobbies & Books
+7/3/2020 19:34:32,Mr.,22,Singapore,Have studied,No Background,Learning how to code with Python. ,Mobile & Gadgets,Hobbies & Books,Men's Wear
+7/3/2020 19:38:46,Ms.,25,Vietnam,Have studied,No Background,Python fundamental for Data Science,Video Games,Computers & Peripherals,Watches
+7/3/2020 21:19:56,Mr.,20,Vietnam,Have studied,Have studied,To gain new knowledge,Computers & Peripherals,Beauty & Personal Care,Hobbies & Books
+7/3/2020 22:59:07,Mr.,23,Singapore,Have used in a project,No Background,To learn the fundamentals of data science,Men's Wear,Food & Beverages,Computers & Peripherals
+7/4/2020 7:28:15,Mr.,26,Malaysia,Have studied,Have studied,Explore new thing,Computers & Peripherals,Food & Beverages,Hobbies & Books
+7/4/2020 9:49:19,Mr.,22,Indonesia,Have used in a project,Have used in a project,Learn more about machine learning with python,Computers & Peripherals,Jewellery & Accessories,Computers & Peripherals
+7/4/2020 10:46:37,Mr.,23,Singapore,Have studied,No Background,Learn more about python for data science,Computers & Peripherals,Hobbies & Books,Mobile & Gadgets
+7/4/2020 11:20:05,Ms.,47,Singapore,Have studied,No Background,Hope to advance my skills,Mobile & Gadgets,Hobbies & Books,Computers & Peripherals
+7/4/2020 11:28:29,Mr.,28,China,Have used in a project,Have used in a project,learn more ML ,Video Games,Hobbies & Books,Mobile & Gadgets
+7/4/2020 12:10:58,Ms.,29,Philippines,Have studied,Have studied,Understand Numpy and Panda. And learn it's actual application in data science,Food & Beverages,Women's Apparel,Beauty & Personal Care
+7/4/2020 12:58:29,Ms.,24,Malaysia,Have studied,No Background,Increase understanding about data science,Hobbies & Books,Beauty & Personal Care,Jewellery & Accessories
+7/4/2020 13:01:02,Ms.,19,Philippines,Regularly use at work,Regularly use at work,I will learn how to use python for data science,Women's Apparel,Mobile & Gadgets,Computers & Peripherals
+7/4/2020 13:14:32,Ms.,20,Singapore,No Background,No Background,Learn basics of python,Women's Apparel,Mobile & Gadgets,Beauty & Personal Care
+7/4/2020 13:42:44,Mr.,25,Indonesia,Have used in a project,Have studied,increase knowledge,Computers & Peripherals,Hobbies & Books,Mobile & Gadgets
+7/4/2020 14:19:17,Ms.,20,Indonesia,Regularly use at work,Have used in a project,"I want to learn more about data science, especially for the application of numpy and pandas library in it.",Beauty & Personal Care,Food & Beverages,Video Games
+7/4/2020 18:28:16,Ms.,20,Singapore,Have studied,No Background,Learn a new skill that can be applied,Beauty & Personal Care,Women's Apparel,Food & Beverages
+7/4/2020 18:51:53,Ms.,21,Singapore,Have studied,No Background,Know more about numpy and pandas for data science ,Women's Apparel,Hobbies & Books,Beauty & Personal Care
+7/5/2020 11:54:06,Ms.,20,Singapore,No Background,No Background,learn as much as i can,Hobbies & Books,Mobile & Gadgets,Food & Beverages
+7/5/2020 12:09:23,Ms.,25,Indonesia,Have studied,No Background,Form a solid foundation on learning data science ,Beauty & Personal Care,Food & Beverages,Hobbies & Books
+7/5/2020 13:43:36,Mr.,50,Singapore,"Have studied, Have used in a project","Have studied, Have used in a project",Learn immediate python,Food & Beverages,Women's Apparel,Video Games
+7/5/2020 13:47:30,Mr.,21,Malaysia,Have studied,Have studied,know more about data science,Computers & Peripherals,Mobile & Gadgets,Video Games
+7/5/2020 14:13:45,Mr.,50,Singapore,"Have studied, Have used in a project","Have studied, Have used in a project",Learn immediate python,Food & Beverages,Women's Apparel,Video Games
+7/5/2020 14:14:42,Ms.,22,Taiwai,Have used in a project,Have studied,To have  a better idea in How it works in Python and data ,Hobbies & Books,Beauty & Personal Care,Women's Apparel
+7/5/2020 14:24:58,Ms.,24,Taiwan,Have used in a project,No Background,agility between Numpy and Pandas,Beauty & Personal Care,Food & Beverages,Women's Apparel
+7/5/2020 16:07:19,Mr.,21,Malaysia,No Background,No Background,To learn how to write scripts in python ,Men's Wear,Hobbies & Books,Food & Beverages
+7/5/2020 18:04:25,Ms.,30,Indonesia,Have used in a project,Have used in a project,Learn python for data science,Food & Beverages,Beauty & Personal Care,Hobbies & Books
+7/5/2020 20:57:21,Ms.,21,Singapore,Have studied,Have used in a project,Knowing more about Python and Numpy for data transformation,Women's Apparel,Beauty & Personal Care,Mobile & Gadgets
+7/6/2020 7:43:49,Mr.,13,Singapore,Have used in a project,Have studied,-,Computers & Peripherals,Men's Wear,Mobile & Gadgets
+7/6/2020 8:55:18,Mr.,22,Singapore,Have studied,No Background,learn more about how python is used for ds,Hobbies & Books,Men's Wear,Food & Beverages
